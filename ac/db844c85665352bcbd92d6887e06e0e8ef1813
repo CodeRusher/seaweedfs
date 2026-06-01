@@ -1,0 +1,28 @@
+weed/topology/volume_layout.go
+  s_faa9897faac5d8::t_c37557f5e5791e 816-817
+  s_faa9897faac5d8::t_5ebe8094849857 813-815,818-821,823
+  s_faa9897faac5d8::t_16873b73082eec 791-792,794-799
+weed/topology/volume_layout_capacity_recovery_test.go
+  s_faa9897faac5d8::t_a9d73dcbc9e1fc 70-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "acdb844c85665352bcbd92d6887e06e0e8ef1813",
+  "prompts": {},
+  "humans": {
+    "h_8bdbf6550b6d85": {
+      "author": "steve.wei <coderushing@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_faa9897faac5d8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e830c-8f78-7443-9edb-b5a224ab8ef6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "steve.wei <coderushing@gmail.com>"
+    }
+  }
+}
