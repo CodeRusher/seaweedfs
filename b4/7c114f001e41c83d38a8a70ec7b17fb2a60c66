@@ -1,0 +1,21 @@
+weed/shell/command_volume_fix_replication_test.go
+  s_8b05da2e5cd7be::t_207f031a162f63 649-733
+weed/shell/command_volume_fix_replication.go
+  s_8b05da2e5cd7be::t_101565e98fdd15 10,47-50,145-146,149-152,155,166,175-177,180-182,186,222-229,234-275,344-346,349,402-403,407
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b47c114f001e41c83d38a8a70ec7b17fb2a60c66",
+  "prompts": {},
+  "sessions": {
+    "s_8b05da2e5cd7be": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28e3e5d2-21e7-4545-a264-505500060ba7",
+        "model": "unknown"
+      },
+      "human_author": "steve.wei <coderushing@gmail.com>"
+    }
+  }
+}
